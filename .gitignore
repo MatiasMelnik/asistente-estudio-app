@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Base de datos
+*.db
+*.mv.db
+
+# Sistema
+.DS_Store
