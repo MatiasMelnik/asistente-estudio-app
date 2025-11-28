@@ -1,0 +1,1 @@
+(proyecto Estrategias de Persistencia): proyecto sobre un calendario mínimamente funcional e interfaz básica, para estudiantes, con el objetivo de ayudar a los estudiantes a organizar su tiempo de estudio (usando bloques de tiempo para estudio) fecha de entrega: ?
